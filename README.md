@@ -1,4 +1,4 @@
-# 🥷 karashiBOT
+# 🥷 karashiBOT COMING SOON
 
 > Multi-Platform Bot with OSINT, Automation & Fun Features
 
