@@ -10,4 +10,4 @@ Mungkin ada beberapa fitur yang saya ingin buat:
 #Whatsapp
 1. Generate Sticker
 
-mungkin segitu dulu, ditunggu ya
+bot tersebut sudah bisa dijalankan contoh seperti Spam otp sudah bisa tetapi belum di publishkan
