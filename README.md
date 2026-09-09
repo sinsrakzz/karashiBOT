@@ -33,7 +33,7 @@ Kumpulan alat untuk pencarian dan verifikasi data dari sumber terbuka.
 | `nik_nomor` | Mencari nomor telepon dari NIK |
 
 #### 2. Spam OTP
-- Total **18 API** yang terkumpul untuk keperluan testing dan simulasi OTP.
+- Total **15 API** yang terkumpul untuk keperluan testing dan simulasi OTP.
 - ⚠️ *Hanya untuk tujuan edukasi dan pengujian keamanan.*
 
 #### 3. Menu Track
