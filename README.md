@@ -31,6 +31,7 @@ Kumpulan alat untuk pencarian dan verifikasi data dari sumber terbuka.
 | `email_breach` | Mengecek apakah email pernah terlibat dalam kebocoran data |
 | `gtc_nomor` | Get Contact - mencari informasi dari nomor/tag |
 | `nik_nomor` | Mencari nomor telepon dari NIK |
+dan lainnya
 
 #### 2. Spam OTP
 - Total **12 API** yang terkumpul untuk keperluan testing dan simulasi OTP.
@@ -44,6 +45,7 @@ Kumpulan alat untuk pencarian dan verifikasi data dari sumber terbuka.
 
 #### 4. Menu Lembaga
 - Informasi dan data dari berbagai lembaga publik/instansi (terintegrasi dengan sumber terbuka).
+
 
 ---
 
